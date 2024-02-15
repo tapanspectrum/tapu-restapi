@@ -74,6 +74,9 @@ npm install --save @nestjs/typeorm typeorm pg
 # step for microservices
 npm i --save @nestjs/microservices
 
+# The ValidationPipe makes use of the powerful class-validator package and its declarative validation decorators
+npm i --save class-validator class-transformer
+
 
 ## Support
 
