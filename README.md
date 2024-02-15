@@ -65,14 +65,14 @@ $ npm run test:cov
 # config for environment
 npm i --save @nestjs/config
 
-# winston plugin 
+# winston plugin
 npm install --save nest-winston winston
 
-# step for pg typeorm 
+# step for pg typeorm
 npm install --save @nestjs/typeorm typeorm pg
 
 # step for microservices
-npm i --save @nestjs/microservices 
+npm i --save @nestjs/microservices
 
 
 ## Support
@@ -81,10 +81,10 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 
 ## Stay in touch
 
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
+- Author - [Tapan Acharjee](https://tapanacharjee.com/)
+- Website - [https://tapanacharjee.com/](https://tapanacharjee.com/
 
 ## License
 
 Nest is [MIT licensed](LICENSE).
+```

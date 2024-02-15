@@ -2,9 +2,9 @@
   "name": "microservice-example",
   "version": "0.0.1",
   "description": "",
-  "author": "",
+  "author": "Tapan Acharjee",
   "private": true,
-  "license": "UNLICENSED",
+  "license": "MIT licensed",
   "scripts": {
     "build": "nest build",
     "format": "prettier --write \"src/**/*.ts\" \"test/**/*.ts\"",
