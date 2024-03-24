@@ -77,6 +77,13 @@ npm i --save @nestjs/microservices
 # The ValidationPipe makes use of the powerful class-validator package and its declarative validation decorators
 npm i --save class-validator class-transformer
 
+# Hide swagger model data from outerworld
+# SwaggerModule.setup('api', app, document, {
+#     swaggerOptions: {
+#       defaultModelsExpandDepth: -1,
+#     },
+#   });
+
 
 ## Support
 
